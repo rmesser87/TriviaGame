@@ -1,0 +1,10 @@
+body {
+    background: black url(../images/worldwallpaper.jpg) repeat;
+}
+
+.container {
+    margin: 10%;
+    background: white;
+    height: 600px;
+    text-align: center;
+}
