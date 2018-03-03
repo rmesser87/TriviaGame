@@ -8,3 +8,8 @@ body {
     height: 600px;
     text-align: center;
 }
+
+#dynamic  {
+    height: 100px;
+    width: 100px;
+}
